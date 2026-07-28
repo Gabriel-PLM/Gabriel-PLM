@@ -1,10 +1,31 @@
-## <b>Hello, wolrd!</b> 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Gabriel+Philipe!;🧑‍💻Sou+estudante+de+Engenharia+de+Software🚀)](https://git.io/typing-svg)
+<p align="center">
 
-### 👨‍💻 <b>About me:</b>
-<p> Me chamo Gabriel Philipe, sou um estudante de Engenharia de Software. Tenho interesse nas áreas de Inteligência Artificial, desenvolvimento fullstack e banco de dados! </p>
+### 😎 **Sobre mim**  
+Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inovação e Inteligência Artificial. Estudante de Engenharia de Software, com foco em se tornar um desenvolvedor fullstack!
 
-### 🛠️<b>Languages-Frameworks-Tools</b> 🛠️
+<!--🐱CAT-->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
 
+### 🌐 **Minhas Redes Sociais**  
+Acompanhe-me no LinkedIn e no GitHub para mais interações e projetos:
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="www.linkedin.com/in/gabriel-philipe-lima-magalhães">
+    [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kauê-francisco-3b13aa255)
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+### 🧑‍💻 **Languages-Frameworks-Tools**  
+Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)<br>
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -15,11 +36,28 @@
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
+</div>
 
-<br>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-### <b>📫 How to Reach Me</b>
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
-[![Email](https://skillicons.dev/icons?i=gmail)](pvgabrielphilipe@gmail.com)
-
-<br>
+### 📊 
+<picture style="background-color: transparent; display: flex; justify-content: center;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+    style="background-color: transparent"
+  />
+</picture>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
