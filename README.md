@@ -36,3 +36,25 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pvgabrielphilipe@gmail.com)
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-PLM&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-PLMO&layout=compact&theme=tokyonight"/>
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gabriel-PLM&theme=tokyonight"/>
+
+</div>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
