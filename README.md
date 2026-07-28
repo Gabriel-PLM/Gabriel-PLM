@@ -10,7 +10,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 </p>
 
 <p align="center">
-  <hr style="border: none; height: 1px; background-color: #666;">
+  <hr style="border: none; height: 1px; background-color: #E5E7EB;">
 </p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
