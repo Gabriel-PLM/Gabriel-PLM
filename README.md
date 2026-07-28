@@ -9,9 +9,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
-<p align="center">
-  <hr style="border: none; height: 1px; background-color: #2D333B;">
-</p>
+<hr style="border: none; height: 1px; background-color: #30363D;">
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
 Aqui estão algumas das ferramentas e linguagens que utilizo:
