@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem-vindo!;Meu+nome+é+Gabriel+Philipe!;🧑‍💻Sou+estudante+de+Engenharia+de+Software🚀)](https://git.io/typing-svg)
 <p align="center">
 
-### 😎 **Sobre mim**  
+---
+
+## 😎 **Sobre mim**  
 Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inovação e Inteligência Artificial. Estudante de Engenharia de Software, com foco em se tornar um desenvolvedor fullstack!
 
 <!--🐱CAT-->
@@ -9,9 +11,9 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
-<br>
+---
 
-### 🧑‍💻 **Languages-Frameworks-Tools**  
+## 🧑‍💻 **Languages-Frameworks-Tools**  
 Aqui estão algumas das ferramentas e linguagens que utilizo:
 
 [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
@@ -25,15 +27,15 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
 
-<br>
+---
 
-### 🌐 **CONTATO**  
+## 🌐 **CONTATO**  
 Acompanhe-me no LinkedIn para mais interações e projetos:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pvgabrielphilipe@gmail.com)
 
-<br>
+---
 
 <div align="center">
 
@@ -41,7 +43,7 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 
 </div>
 
-<br>
+---
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
