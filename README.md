@@ -25,7 +25,7 @@ Acompanhe-me no LinkedIn e no GitHub para mais interações e projetos:
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
 Aqui estão algumas das ferramentas e linguagens que utilizo:
 
-[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)<br>
+[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
