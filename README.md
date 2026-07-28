@@ -28,7 +28,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr style="border: none; height: 1px; background-color: #4B5563;">
 </p>
 
 ### 🌐 **CONTATO**  
