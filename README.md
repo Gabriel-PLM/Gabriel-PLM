@@ -10,7 +10,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="file:///D:/PESSOAL/Linha.png" height="20" width="100%">
 </p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
