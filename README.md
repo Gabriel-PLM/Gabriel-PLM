@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem-vindo!;Meu+nome+é+Gabriel+Philipe!;🧑‍💻Sou+estudante+de+Engenharia+de+Software🚀)](https://git.io/typing-svg)
 <p align="center">
 
+<br>
+
 ---
 
 ## 😎 **Sobre mim**  
@@ -10,6 +12,8 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
+
+<br>
 
 ---
 
@@ -27,6 +31,8 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
 
+<br>
+
 ---
 
 ## 🌐 **CONTATO**  
@@ -35,6 +41,8 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pvgabrielphilipe@gmail.com)
 
+<br>
+
 ---
 
 <div align="center">
@@ -42,6 +50,8 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 <img src="https://streak-stats.demolab.com?user=Gabriel-PLM&theme=tokyonight"/>
 
 </div>
+
+<br>
 
 ---
 
