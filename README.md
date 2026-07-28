@@ -9,12 +9,6 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
-### 🌐 **Minhas Redes Sociais**  
-Acompanhe-me no LinkedIn e no GitHub para mais interações e projetos:
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
-[![Email](https://skillicons.dev/icons?i=gmail)](pvgabrielphilipe@gmail.com)
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
@@ -36,6 +30,12 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+
+### 🌐 **CONTATO**  
+Acompanhe-me no LinkedIn para mais interações e projetos:
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
+[![Email](https://skillicons.dev/icons?i=gmail)](pvgabrielphilipe@gmail.com)
  
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
