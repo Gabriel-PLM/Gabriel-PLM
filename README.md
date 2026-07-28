@@ -10,7 +10,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 </p>
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a691e7a856c8191a2f6b5bbf8c4667a" height="20" width="100%">
+  <hr style="border: none; height: 1px; background-color: #666;">
 </p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
