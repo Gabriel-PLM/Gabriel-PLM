@@ -23,9 +23,8 @@ Acompanhe-me no LinkedIn e no GitHub para mais interações e projetos:
 </p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
-Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
+Aqui estão algumas das ferramentas e linguagens que utilizo:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)<br>
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -36,7 +35,6 @@ Aqui estão algumas das ferramentas que utilizo para construir soluções inovad
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
-</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
