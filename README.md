@@ -9,7 +9,9 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
 
-<hr color="#30363D">
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
 Aqui estão algumas das ferramentas e linguagens que utilizo:
@@ -26,7 +28,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
 
 <p align="center">
-  <hr style="border: none; height: 1px; background-color: #30363D;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 ### 🌐 **CONTATO**  
