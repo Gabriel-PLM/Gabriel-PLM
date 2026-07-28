@@ -4,6 +4,7 @@
 <br>
 
 ---
+<br>
 
 ## 😎 **Sobre mim**  
 Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inovação e Inteligência Artificial. Estudante de Engenharia de Software, com foco em se tornar um desenvolvedor fullstack!
@@ -16,6 +17,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 <br>
 
 ---
+<br>
 
 ## 🧑‍💻 **Languages-Frameworks-Tools**  
 Aqui estão algumas das ferramentas e linguagens que utilizo:
@@ -34,6 +36,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 <br>
 
 ---
+<br>
 
 ## 🌐 **CONTATO**  
 Acompanhe-me no LinkedIn para mais interações e projetos:
