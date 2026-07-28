@@ -35,4 +35,4 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 Acompanhe-me no LinkedIn para mais interações e projetos:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
-[![Email](https://skillicons.dev/icons?i=gmail)](https://www.gmail.com/in/pvgabrielphilipe@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:pvgabrielphilipe@gmail.com)
