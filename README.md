@@ -10,7 +10,7 @@ Olá, sou o **Gabriel Philipe**, desenvolvedor apaixonado por tecnologia, inova�
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://imgs.search.brave.com/3A3nMke5x6M74w2nD-R41QiqY4bws9ijNLu9dtIIyM0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDIwMDgwMS9vdXJt/aWQvcG5ndHJlZS1z/dHJhaWdodC1ibGFj/ay1saW5lLXNlZ21l/bnQtcG5nLWltYWdl/XzIzMTkxNTkuanBn" height="20" width="100%">
 </p>
 
 ### 🧑‍💻 **Languages-Frameworks-Tools**  
