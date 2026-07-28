@@ -5,7 +5,7 @@
 
 ### 🛠️<b>Languages-Frameworks-Tools</b> 🛠️
 
-[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)<br>
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
@@ -13,7 +13,6 @@
 [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![BASH](https://skillicons.dev/icons?i=bash)](https://pt.wikipedia.org/wiki/Bash)
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
 
