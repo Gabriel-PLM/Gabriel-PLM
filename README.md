@@ -36,22 +36,3 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
 [![Email](https://skillicons.dev/icons?i=gmail)](pvgabrielphilipe@gmail.com)
- 
-<picture style="background-color: transparent; display: flex; justify-content: center;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-    style="background-color: transparent"
-  />
-</picture>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
