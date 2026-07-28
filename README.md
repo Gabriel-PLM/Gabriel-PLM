@@ -37,6 +37,9 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-philipe-lima-magalhães)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pvgabrielphilipe@gmail.com)
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <div align="center">
 
@@ -44,6 +47,9 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 
 </div>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
