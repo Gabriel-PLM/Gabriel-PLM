@@ -40,16 +40,6 @@ Acompanhe-me no LinkedIn para mais interações e projetos:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-PLM&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-PLMO&layout=compact&theme=tokyonight"/>
-
-</div>
-
-
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Gabriel-PLM&theme=tokyonight"/>
 
 </div>
