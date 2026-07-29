@@ -26,7 +26,6 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![FIGMA](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
